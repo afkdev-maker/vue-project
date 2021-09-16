@@ -7,11 +7,12 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import MyFooter from './components/MyFooter.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    HelloWorld, MyFooter
   }
 }
 </script>
